@@ -5,7 +5,7 @@
 💻 Low-level programming | UI design | Reverse engineering | Web apps<br><br>
 🚀 Featured Projects<br>
 🔹 usermode-taskscheduler – A POC usermode task scheduler for Roblox<br>
-🔹 Disturbed-Universal – A universal aimbot/visuals script for all games on Roblox.<br>
+🔹 Disturbed-Universal – A universal aimbot/visuals script for all games on Roblox<br>
 <br>
 📬 Contact & Links<br>
 🌐 Discord: @8snd<br>

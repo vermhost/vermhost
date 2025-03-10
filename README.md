@@ -10,4 +10,4 @@
 📬 Contact & Links<br>
 🌐 Discord: @8snd<br>
 <br>
-🔥 Always learning & pushing limits. Let's build something awesome!
+🔥 Always learning & pushing limits, hiding in the server room.
